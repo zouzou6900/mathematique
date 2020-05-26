@@ -1,3 +1,3 @@
 # mathematique
- exercices mathematique appilique a l informatique en python et en C
- enoncer donner sur le pdf
+ Exercices mathematique appliquer a l'informatique en python et en C
+ Enoncer donner sur le pdf
