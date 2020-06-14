@@ -1,3 +1,4 @@
+# libraries
 import math, random, sys
 
 valMin = 10
